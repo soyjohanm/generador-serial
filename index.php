@@ -140,6 +140,7 @@
       }
       .btn:hover, .btn-large:hover, .btn-small:hover {
         background-color: #0000ff;
+		color: white
       }
       .btn-flat {
         -webkit-box-shadow: none;
