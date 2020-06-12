@@ -34,7 +34,7 @@
         margin: 0;
       }
       button, input {
-      overflow: visible;
+		overflow: visible;
       }
       html {
         -webkit-box-sizing: border-box;
