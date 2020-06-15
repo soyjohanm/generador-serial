@@ -213,6 +213,7 @@
       aux.select();
       document.execCommand("copy");
       document.body.removeChild(aux);
+	  alert("¡Serial copiado!");
     }
   </script>
 </html>
